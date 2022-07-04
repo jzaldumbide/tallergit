@@ -5,6 +5,7 @@ taller de git
 <!-- Carlos Jurado -->
 <<<<<<< HEAD
 # Joel Tates 
+# omar toro
 =======
 
 Carlos Jurado //9:23
