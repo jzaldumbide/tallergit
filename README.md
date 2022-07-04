@@ -6,6 +6,7 @@ taller de git
 <<<<<<< HEAD
 # Joel Tates 
 # omar toro
+## Camila Mier
 =======
 
 Carlos Jurado //9:23
