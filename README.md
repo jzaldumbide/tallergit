@@ -6,7 +6,8 @@ taller de git
 <<<<<<< HEAD
 # Joel Tates 
 # omar toro
+# Felipe Pazmiño
 =======
 
 Carlos Jurado //9:23
->>>>>>> f06189549db746b10dcf03d698681f550e492c50
+
