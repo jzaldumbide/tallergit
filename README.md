@@ -1,2 +1,5 @@
 # tallergit
-taller de git 
+
+taller de git
+
+<!-- Carlos Jurado -->
